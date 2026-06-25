@@ -1,0 +1,31 @@
+# 🎓 Wejheti
+
+AI-powered university orientation assistant for Tunisian students.
+
+## Features
+
+- Predict suitable university programs
+- Analyze Bac scores
+- Machine Learning recommendation engine
+- FastAPI backend
+- Streamlit frontend
+
+## Tech Stack
+
+- Python
+- Pandas
+- Scikit-Learn
+- FastAPI
+- Streamlit
+
+## Installation
+
+```bash
+git clone 
+cd wejheti
+
+pip install -r requirements.txt
+
+uvicorn src.api.main:app --reload
+
+streamlit run app/streamlit_app.py
