@@ -402,7 +402,6 @@ https://github.com/Nour-Faker
 
 ---
 
-## ⭐ Support
 
 If you find this project useful:
 
